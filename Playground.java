@@ -17,6 +17,22 @@ public class Playground {
 
         String exclaimName = newAddExclamationPoint(name);
         System.out.println(exclaimName);
+        //system.out.println(newAddExclamationPoint(name));
+        // create a friend object
+
+        Friend newFriend = new Friend();
+        //call my friend name method
+        String friendName = Friend.myFriendName();
+        System.out.println(friendName);
+
+
+        //Call validateFriend Method with the variable name
+        //name = Crystal 
+        String validateFriend = Friend.validateFriend(name);
+        //System.out.println(validateFriend);
+        System.out.println(validateFriend);
+        
+        System.out.println(newFriend.validateFriend(jake));
 
     }
     // make a void method
