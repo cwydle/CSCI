@@ -1,8 +1,8 @@
-import javax.swing.JFrame;
+//import javax.swing.JFrame;
 
 //import 
-public class RectangleViewer {
-    public static void name() {
+//public class RectangleViewer {
+    //public static void name() {
        // JFrame.frame = new JFrame();
        // frame.setSize(300,400);
        // frame.setTitle("Two Rectangles");
@@ -10,8 +10,8 @@ public class RectangleViewer {
        // RectangleComponent component = new RectangleComponent(); 
         //frame.add(component);
         //frame.setVisible(true);
-    }
+    //}
     
 
     
-}
+//}

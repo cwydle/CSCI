@@ -32,7 +32,17 @@ public class Playground {
         //System.out.println(validateFriend);
         System.out.println(validateFriend);
         
-        System.out.println(newFriend.validateFriend(jake));
+        //System.out.println(newFriend.validateFriend(jake));
+        Counter count = new Counter();
+        //system.out.println(count.value)
+        //0
+        System.out.println(count.getValue());
+        //1
+        count.click();
+        count.click();
+        //2
+        System.out.println();
+
 
     }
     // make a void method
